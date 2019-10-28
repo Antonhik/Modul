@@ -1,0 +1,31 @@
+*{
+	background-color: 00002;
+	margin: 0;
+	padding: 0;
+}
+
+.blal{
+
+}
+
+.arrow-up {
+  width: 0; 
+  height: 0; 
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  
+  border-bottom: 5px solid black;
+}
+@keyframes asd{
+	0%{
+transform: rotate(90deg);
+top: 50%
+border-left 50%
+	}
+	50{
+
+	}
+	100%{
+
+	}
+}
